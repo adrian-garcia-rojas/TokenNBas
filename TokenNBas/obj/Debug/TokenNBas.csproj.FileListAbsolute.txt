@@ -31,6 +31,5 @@ E:\Docs\Desktop\Visual Studio 2013\Projects\TokenNBas\TokenNBas\bin\System.Web.W
 E:\Docs\Desktop\Visual Studio 2013\Projects\TokenNBas\TokenNBas\bin\System.Web.WebPages.Deployment.xml
 E:\Docs\Desktop\Visual Studio 2013\Projects\TokenNBas\TokenNBas\bin\System.Web.WebPages.Razor.xml
 E:\Docs\Desktop\Visual Studio 2013\Projects\TokenNBas\TokenNBas\bin\Antlr3.Runtime.pdb
-E:\Docs\Desktop\Visual Studio 2013\Projects\TokenNBas\TokenNBas\obj\Debug\TokenNBas.csprojResolveAssemblyReference.cache
 E:\Docs\Desktop\Visual Studio 2013\Projects\TokenNBas\TokenNBas\obj\Debug\TokenNBas.dll
 E:\Docs\Desktop\Visual Studio 2013\Projects\TokenNBas\TokenNBas\obj\Debug\TokenNBas.pdb

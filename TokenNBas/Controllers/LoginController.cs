@@ -9,7 +9,7 @@ using TokenNBas.Models.ServiciosC;
 
 namespace TokenNBas.Controllers
 {
-    public class AccessController : ApiController
+    public class LoginController : ApiController
     {
         TestEntities db = new TestEntities();
 
